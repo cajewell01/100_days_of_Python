@@ -1,5 +1,5 @@
 # # 100_days_of_python
-These are the exercises and projects I completed on my own without a solution, unless noted, while participating in the 100daysofpython.dev course. Below you will find instructions I needed to follow to accomplish each task, my thoughts, and things I learned. 
+These are the exercises and projects I completed on my own without a solution, unless noted, while participating in the 100daysofpython.dev course. Below you will find instructions I needed to follow to accomplish each task, my thoughts, and things I learned. Also, while I will not be attaching the notes to this readme file, the notes I took for each day along with the practice exercises are included in this repository and are named by day. 
 
 ## Day 1
 This was just a basic intro. We covered printing, inputs, and concatenation. There were no exercies just the project. 
@@ -7,43 +7,20 @@ This was just a basic intro. We covered printing, inputs, and concatenation. The
 #### [Project: Band Name Generator](https://github.com/cajewell01/100_days_of_Python/blob/main/band_name_generator.py)
 Using the city you grew up in and the name of a pet, create a program that will print the name of your new band. 
 
-<!-- ###### My Thoughts & Things I Learned
+###### My Thoughts & Things I Learned
 I have coded a little before so this felt familiar and I'm now excited to get started!
 
 ## Day 2
-Today was data types and f-strings
+Today was data types, mathematical operations, and f-strings
 
-#### [2-1-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-2-1-exercise.py)
-Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
-
-###### My Thoughts & Things I Learned
-This was a great dive into types and I made myself some notes in my code. 
-
-#### [2-2-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-2-2-exercise.py)
-Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
-
-###### My Thoughts & Things I Learned
-This was a basic exercise that really focused on using types and math. It was a good check to see if I remembered to make sure I had made strings into ints. 
-
-#### [2-3-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-2-3-exercise.py)
-Write a program that calculates the Body Mass Index (BMI) from a user's weight and height.
-
-###### My Thoughts & Things I Learned
-Again it was great practice on changing strings to ints and also using f-strings. Although I'm not sure how excited I was to find out how many days, weeks, and months I had left until I am 90.....
-
-#### [Project: Tip Calculator](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-2-project-tip-calculator.py)
+#### [Project: Tip Calculator](https://github.com/cajewell01/100_days_of_Python/blob/main/tip_calculator.py)
 If the bill was $150.00, split between 5 people, with 12% tip.
-
-Each person should pay (150.00 / 5) * 1.12 = 33.6
-
 Format the result to 2 decimal places = 33.60
 
-Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
-
 ###### My Thoughts & Things I Learned
-Just a great continuation of the exercises that were completed prior to the project. This did require a little bit of googling, but that was fun and something I know I will do frequently while coding. 
+This was a great project and really tied everything that was learned today together. While I was able to easily work through this, I think my biggest thing to continue to practice is making my code more concise and readable. I think overall I wrote good code and I am proud of what I did. 
 
-## Day 3
+<!-- ## Day 3
 Today was all about IF statements and Logical Operators. I got carried away on this day, in a good way. 
 
 #### [3-1-exercise](https://github.com/cajewell01/100_days_of_code_python/blob/main/day-3-1-exercise.py)
