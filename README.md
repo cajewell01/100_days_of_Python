@@ -1,5 +1,5 @@
 # # 100_days_of_python
-These are the exercises and projects I completed on my own without a solution, unless noted, while participating in the 100daysofpython.dev course. Below you will find instructions I needed to follow to accomplish each task, my thoughts, and things I learned. Also, while I will not be attaching the notes to this readme file, the notes I took for each day along with the practice exercises are included in this repository and are named by day. 
+These are the exercises and projects I completed on my own without a solution, unless noted, while participating in the 100daysofpython.dev course. Below you will find instructions I needed to follow to accomplish each task, my thoughts, and things I learned. Also, while I will not be attaching the notes to this readme file or GitHub repository, the notes I took for each day along with the practice exercises are found in my [Notion](https://funky-crocodile-35a.notion.site/100-Days-of-Python-a5edd4102a6a4e60b365fba93016e916) 
 
 ## Day 1
 This was just a basic intro. We covered printing, inputs, and concatenation. There were no exercies just the project. 
